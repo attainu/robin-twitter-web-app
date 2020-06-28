@@ -36,4 +36,4 @@ Then run
 npm run dev
 
 See it online at:
-https://twitter-clone-new.herokuapp.com/
+https://twitter-app-init.herokuapp.com
